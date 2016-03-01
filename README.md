@@ -10,7 +10,7 @@ This example uses a binary index tree algorithm to process video view logs. It f
 
 ###flask_views.py
 
-These are base class views for Flask projects. They are inspired by Django class-based views. I like this approach because you can implement generalized simple functionality and built complex functionality via subclassing and Python's class inheritance.
+These are base class views for Flask projects. They are inspired by Django class-based views. I like this approach because you can implement generalized simple functionality and build complex functionality via subclassing and Python's class inheritance.
 
 ###froalaEmbedTweet.js
 
